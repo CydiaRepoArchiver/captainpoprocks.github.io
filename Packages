@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Depends: ToneEnabler
 Filename: ./debs/com.captainpoprocks.mcringtones_1.0_iphoneos-arm.deb
 Size: 6429272
-MD5sum: c5eeb9171cfb3eb36c623dc63637c4e4
-SHA1: 5f6f25c7b2d8e2b1ab6885521b48a9d848ee8727
-SHA256: f10aadc64755848726bd057f0c2e3b1447b25435bda858ebfb268522e7afb8d9
+MD5sum: b19167b30e8a3f0d30660fbc01dc8c33
+SHA1: 69186c931d59b5fe1af65213e7bf4a2823d14dbb
+SHA256: acb4a43ac5c69764aea94f6d31823d2690ff097e8bebefdd1017cde8c74f75fa
 Section: Ringtones
 Description: A package of Monster Cat ringtones created by /u/therealdjego.  Requires ToneEnabler from beta.unlimapps.com
 Author: Captain Poprocks
@@ -17,22 +17,36 @@ Version: 1.1.1
 Architecture: iphoneos-arm
 Filename: ./debs/com.captainpoprocks.mrmeeseekssiri_1.1.1_iphoneos-arm.deb
 Size: 681220
-MD5sum: 7e5c4a0521f01eb96f739269fb961a88
-SHA1: 441391ac31804f4ccd89a851ba252a1fec0dd7cb
-SHA256: 3101b3594158796f6448e4db0c6ec42c7235e3531bfe57d82943ac18e6fb39f0
+MD5sum: 92863d4d15bef9c467d29b3ae857bd9b
+SHA1: 30561760cc5fa928aaa6b7411862a5d5821b0d83
+SHA256: 4fa46cb0e599c8d2a09b24f1ed9d1803967f9333aa505228d28e0eb6d62cd89e
 Section: Themes
 Description: Replaces the “Hey Siri” sound effects with Mr. Meeseeks sounds.
 Author: Captain Poprocks
 Name: Siri - Mr. Meeseeks Siri Sounds
+
+Package: com.captainpoprocks.cortanaring
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: lockglyph
+Filename: ./debs/com.captainpoprocks.cortanaring_1.0_iphoneos-arm.deb
+Size: 74232
+MD5sum: b45b523d30c5a8657f1e965af79ac607
+SHA1: ec8c1017379e853386da0020daedaf45e7db3ae7
+SHA256: 95da837b17c05d6d5e65bcc414feea2e2cd3263d4d3e88c396d1b442e6900749
+Section: Themes
+Description: A Cortana style lockglyph
+Author: Captain Poprocks
+Name: Cortana Ring for Lockglyph
 
 Package: com.captainpoprocks.dragonloading
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: ./debs/com.captainpoprocks.dragonloading_1.0_iphoneos-arm.deb
 Size: 41424
-MD5sum: 5fe8865e6c58b05de7998c472ef628fa
-SHA1: b7492495028f7208fd8546d88d7f001f32a92921
-SHA256: 242ab6dab9f24f82b64798eff563f2f2836c9f9e04ec702f2967c3c643b7fa78
+MD5sum: 463955c0b9f8ae1d223929a1882f8827
+SHA1: badb48216a5d5025c3ede6c1258cabc20da7a80b
+SHA256: 50085258ae0579e7236ab3d4f381597a393e4327c5bd694346e62f74ed7aaf6c
 Section: Themes
 Description: A cute dragon gif to replace the standard iOS loading wheel.
 Author: Captain Poprocks
