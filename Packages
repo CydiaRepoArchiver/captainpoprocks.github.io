@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Depends: ToneEnabler
 Filename: ./debs/com.captainpoprocks.mcringtones_1.0_iphoneos-arm.deb
-Size: 6429270
-MD5sum: 1709c8e84de4a3de65e8f277bf64ddb3
-SHA1: 668b68f11cbe093576b94f049517df94cebf6d34
-SHA256: f996ef5357ca9659ff85a12497d81e7343a56ba6e8258df5159063ca4bcd6ad6
+Size: 6429272
+MD5sum: c5eeb9171cfb3eb36c623dc63637c4e4
+SHA1: 5f6f25c7b2d8e2b1ab6885521b48a9d848ee8727
+SHA256: f10aadc64755848726bd057f0c2e3b1447b25435bda858ebfb268522e7afb8d9
 Section: Ringtones
 Description: A package of Monster Cat ringtones created by /u/therealdjego.  Requires ToneEnabler from beta.unlimapps.com
 Author: Captain Poprocks
@@ -16,12 +16,25 @@ Package: com.captainpoprocks.MrMeeseeksSiri
 Version: 1.1.1
 Architecture: iphoneos-arm
 Filename: ./debs/com.captainpoprocks.mrmeeseekssiri_1.1.1_iphoneos-arm.deb
-Size: 681212
-MD5sum: 2fbfb351232fe33c0fa587fbcc685915
-SHA1: d8fdadefd9442e97f53cdb17ae9d14c90d26d9db
-SHA256: 28b8a0630f0c69776b62d24cd199d4093036d547f370657c21e7fb251adec522
+Size: 681220
+MD5sum: 7e5c4a0521f01eb96f739269fb961a88
+SHA1: 441391ac31804f4ccd89a851ba252a1fec0dd7cb
+SHA256: 3101b3594158796f6448e4db0c6ec42c7235e3531bfe57d82943ac18e6fb39f0
 Section: Themes
 Description: Replaces the “Hey Siri” sound effects with Mr. Meeseeks sounds.
 Author: Captain Poprocks
 Name: Siri - Mr. Meeseeks Siri Sounds
+
+Package: com.captainpoprocks.dragonloading
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/com.captainpoprocks.dragonloading_1.0_iphoneos-arm.deb
+Size: 41424
+MD5sum: 5fe8865e6c58b05de7998c472ef628fa
+SHA1: b7492495028f7208fd8546d88d7f001f32a92921
+SHA256: 242ab6dab9f24f82b64798eff563f2f2836c9f9e04ec702f2967c3c643b7fa78
+Section: Themes
+Description: A cute dragon gif to replace the standard iOS loading wheel.
+Author: Captain Poprocks
+Name: Licky Dragon Loading Indicator
 

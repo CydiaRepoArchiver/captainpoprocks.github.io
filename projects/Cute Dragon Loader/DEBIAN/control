@@ -1,0 +1,11 @@
+Package: com.captainpoprocks.dragonloading
+Name: Licky Dragon Loading Indicator
+Version: 1.0
+Section: Themes
+Maintainer:
+Depends: 
+Architecture: iphoneos-arm
+Description: A cute dragon gif to replace the standard iOS loading wheel.
+Author: Captain Poprocks
+Sponsor:
+
