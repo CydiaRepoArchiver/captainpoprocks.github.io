@@ -1,4 +1,9 @@
 #!/bin/bash
+
+sed '7,9d' index.html > indexnew.html
+rm index.html
+mv indexnew.html index.html
+
 cd ./projects/
 ls -1 > /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/activeprojects.txt
 cd /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/
