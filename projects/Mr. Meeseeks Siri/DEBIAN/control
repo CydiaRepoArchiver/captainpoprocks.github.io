@@ -1,0 +1,11 @@
+Package: com.captainpoprocks.MrMeeseeksSiri
+Name: Siri - Mr. Meeseeks Siri Sounds
+Version: 1.1.1
+Section: Themes
+Maintainer:
+Depends: 
+Architecture: iphoneos-arm
+Description: Replaces the “Hey Siri” sound effects with Mr. Meeseeks sounds.
+Author: Captain Poprocks
+Sponsor:
+

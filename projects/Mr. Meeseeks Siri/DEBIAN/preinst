@@ -1,0 +1,13 @@
+#!/bin/bash
+cd /System/Library/Audio/UISounds
+mkdir SiriBackup
+cp ./jbl_begin.caf ./SiriBackup/jbl_begin.caf
+cp ./jbl_confirm.caf ./SiriBackup/jbl_confirm.caf
+cp ./jbl_cancel.caf ./SiriBackup/jbl_cancel.caf
+echo “Restart!”
+echo “Restart!”
+echo “Restart!”
+echo “Made by Captain Poprocks”
+
+exit 0
+
