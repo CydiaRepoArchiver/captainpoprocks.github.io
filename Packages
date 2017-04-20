@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Depends: ToneEnabler
 Filename: ./debs/com.captainpoprocks.mcringtones_1.0_iphoneos-arm.deb
 Size: 6429272
-MD5sum: 580760209179ade7b98160e04bbd3496
-SHA1: 63b59770552bb147711cddde15725406355e5ddf
-SHA256: fb8fc3a843e8a79c34e6da84dfed659bd70dd27c52b2241926afcebdc4d5d322
+MD5sum: 399e565c5c44d05a90b08089d03746d2
+SHA1: bd1e00724df1351676431ca8332682843bee5489
+SHA256: cf483651aa64f6480c69281d03942190f04e88195d6746b799eeef4b714b421b
 Section: Ringtones
 Description: A package of Monster Cat ringtones created by /u/therealdjego.  Requires ToneEnabler from beta.unlimapps.com
 Author: Captain Poprocks
@@ -17,9 +17,9 @@ Version: 1.1.1
 Architecture: iphoneos-arm
 Filename: ./debs/com.captainpoprocks.mrmeeseekssiri_1.1.1_iphoneos-arm.deb
 Size: 681220
-MD5sum: 67a96158537abe917695980b7e64ec75
-SHA1: cbe61412879f32bc3ce248d3eadf7dc623108b11
-SHA256: 021899928aa260731588c4116de3188453bf8acb424acbe2603cce1b5251cb84
+MD5sum: f63ceb7764be9de3ead4b3bb4ea6c3db
+SHA1: 7777d27d52de340f14d7b78c9bc24db12d9d127b
+SHA256: 501666e17e6a2fd79974e3aca2cb60c6a136bd16eed4a6c09c7734cc93407426
 Section: Themes
 Description: Replaces the “Hey Siri” sound effects with Mr. Meeseeks sounds.
 Author: Captain Poprocks
@@ -31,9 +31,9 @@ Architecture: iphoneos-arm
 Depends: lockglyph
 Filename: ./debs/com.captainpoprocks.cortanaring_1.0_iphoneos-arm.deb
 Size: 74232
-MD5sum: 2911eb3d0c458fe98a3804023a5ee680
-SHA1: 78961917a04e96e6727533f74e54860c1489739a
-SHA256: 45826a4a09325cc0276cb7ae66f7341a77a4418dfa1b6c3fa6e19ca5436696de
+MD5sum: 4f1123f1fdeac7475092774466a0da38
+SHA1: 2c947dbf466c8f3632c7992fa175c8ee40da7219
+SHA256: 1782df819704cea66fd8080d22683481aae3ecb397d7f60ea6493da27481f7bb
 Section: Themes
 Description: A Cortana style lockglyph
 Author: Captain Poprocks
@@ -44,9 +44,9 @@ Version: 1.0
 Architecture: iphoneos-arm
 Filename: ./debs/com.captainpoprocks.dragonloading_1.0_iphoneos-arm.deb
 Size: 41424
-MD5sum: 18321e162dc02965f1252db2827b4d1e
-SHA1: eed9be7855b5e53af865c42f1b5ff97e52fdbbf0
-SHA256: 07394ac738e378c6886aac707ec47e5d5e6e3e3ca93d82c503b6740bd4c73120
+MD5sum: 306abbd9d1b93a61a7862fe3d00ee333
+SHA1: 96e1b171efafb2dd21ffc8fc22922a515b506c18
+SHA256: b9d694c2d3962ca58db431b51e85fc1e0e9097c3d02bae8465cd25b6523edbc3
 Section: Themes
 Description: A cute dragon gif to replace the standard iOS loading wheel.
 Author: Captain Poprocks
@@ -60,11 +60,27 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.captainpoprocks.nosquaremode_0.0.1-2+debug_iphoneos-arm.deb
 Size: 4016
-MD5sum: 225972b73b7b598a302eb69f3968f574
-SHA1: 83d6a0e878a174de5128d1bb91e0db8a00834627
-SHA256: e48cb4f52d70ebc5b1c235dd4bfa8f6691bd8ba75bf26fc528d42883912a3fd4
+MD5sum: 8e56e4104bc9b6bec9481ccf98b9d96b
+SHA1: 2b946c5a451b523654a9217f914cd4421b6c55d6
+SHA256: 8b2ecf59af18794a0119940634f00cf80723ec29cd6eeea7e7f0dccb12007095
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: System Administrator
 Name: NoSquareMode
+
+Package: com.captainpoprocks.noswitcherblur
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: System Administrator
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.captainpoprocks.noswitcherblur_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4048
+MD5sum: 7e1d5e940b7def2eb7fe8030b3807bcf
+SHA1: 48991df135c76047ba2970609fc59b202de3aaee
+SHA256: b45abcbe2bf5932f4e90c3fec9151d4c203c3e8ea13969e5a63bc9f73b568670
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: System Administrator
+Name: NoSwitcherBlur
 

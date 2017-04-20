@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sed '7,11d' index.html > indexnew.html
+sed '7,14d' index.html > indexnew.html
 rm index.html
 mv indexnew.html index.html
 cd ./projects/
