@@ -1,11 +1,25 @@
+Package: com.captainpoprocks.MCRingtones
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: ToneEnabler
+Filename: ./debs/com.captainpoprocks.mcringtones_1.0_iphoneos-arm.deb
+Size: 6429774
+MD5sum: 564ace8af883102004a13194dd820350
+SHA1: 475a4b97199b6dd565fdf33e4b5c531fe6021f22
+SHA256: 4f4254e8e56a0bd11d43673e0a6c4b19ec0251f2f1ee694d1cdee23850a66cf7
+Section: Ringtones
+Description: A package of Monster Cat ringtones created by /u/therealdjego.  Requires ToneEnabler from beta.unlimapps.com
+Author: Captain Poprocks
+Name: Monstercat Ringtone Pack
+
 Package: com.captainpoprocks.MrMeeseeksSiri
 Version: 1.1.1
 Architecture: iphoneos-arm
 Filename: ./debs/com.captainpoprocks.mrmeeseekssiri_1.1.1_iphoneos-arm.deb
 Size: 682838
-MD5sum: db04ecced6bdb6f74883efdb21622e9a
-SHA1: 514b474551c9806eba5cbbc05f50db7261785207
-SHA256: 71bff578b6f9692b982fc4e7cd0a057050eacdcbf91058961cbdea942b1a6665
+MD5sum: 27314129227a19923ba1d10aa66fe323
+SHA1: 84fd3481e7e650096022393cd48bf3aba46c1fbc
+SHA256: a0c8866ce1c7d4cb2cd2b06d012ced24d185cf6dfbb38989be5c283c585e107e
 Section: Themes
 Description: Replaces the “Hey Siri” sound effects with Mr. Meeseeks sounds.
 Author: Captain Poprocks

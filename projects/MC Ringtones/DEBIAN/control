@@ -1,0 +1,11 @@
+Package: com.captainpoprocks.MCRingtones
+Name: Monstercat Ringtone Pack
+Version: 1.0
+Section: Ringtones
+Maintainer:
+Depends: ToneEnabler 
+Architecture: iphoneos-arm
+Description: A package of Monster Cat ringtones created by /u/therealdjego.  Requires ToneEnabler from beta.unlimapps.com
+Author: Captain Poprocks
+Sponsor:
+
