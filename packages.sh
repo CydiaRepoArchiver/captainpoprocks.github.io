@@ -8,4 +8,6 @@ dpkg-deb -bZgzip /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/p
 
 dpkg-deb -bZgzip /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/projects/Cortana\ Ring\ Lockglyph debs
 
+dpkg-deb -bZgzip /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/projects/NoSquareMode debs
+
 # dpkg-deb -bZgzip /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/projects/<projectname> debs
