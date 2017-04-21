@@ -6,6 +6,5 @@ Description: Disables square mode in camera app.
 Maintainer: Captain Poprocks
 Author: Captain Poprocks
 Section: Tweaks
-Version: 0.0.1-3+debug
-Installed-Size: 120
-
+Version: 0.1.0-1+debug
+Installed-Size: 248
