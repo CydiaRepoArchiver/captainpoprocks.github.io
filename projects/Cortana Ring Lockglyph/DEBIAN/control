@@ -3,9 +3,8 @@ Name: Cortana Ring for Lockglyph
 Version: 1.0
 Section: Themes
 Maintainer:
-Depends: lockglyph
+Depends:
 Architecture: iphoneos-arm
 Description: A Cortana style lockglyph
 Author: Captain Poprocks
 Sponsor:
-
