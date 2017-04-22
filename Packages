@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Depends: ToneEnabler
 Filename: ./debs/com.captainpoprocks.mcringtones_1.0_iphoneos-arm.deb
 Size: 6429272
-MD5sum: e0fe5f645a88eae389dfb1204ef9a85a
-SHA1: 57ff88454b045e84993220a9426aca4ab0d8320b
-SHA256: 54fafa568b61ab8c24c1f73f93042016d48dbae4d0c3a30e3a44604ce3d8af31
+MD5sum: 68b2efcdb3016ed60ba71b244f3b3c94
+SHA1: 35f17cd9e5d8ebdca4de13a562d27dc608fd8d9f
+SHA256: 439d92615d2625b6fdcff06960b0623ff3f0edeae099a334bf3b8c44fa361d03
 Section: Ringtones
 Description: A package of Monster Cat ringtones created by /u/therealdjego.  Requires ToneEnabler from beta.unlimapps.com
 Author: Captain Poprocks
@@ -17,9 +17,9 @@ Version: 1.1.1
 Architecture: iphoneos-arm
 Filename: ./debs/com.captainpoprocks.mrmeeseekssiri_1.1.1_iphoneos-arm.deb
 Size: 681226
-MD5sum: 05aecb65b3aee0a1a8cf827cc5849cc2
-SHA1: d801b6be5e672bf1f7dac85192a6e7d52491acd6
-SHA256: 619fe069b60444040c22d6b0facef5ae129c15612c95f2e2c919c9e09b68526f
+MD5sum: fa27b69aceef95dc71bc0b56d66ecf11
+SHA1: 525a97ab20d6afe3756ab217950ff19bf3d8713a
+SHA256: 290fc86250a575d8e87db193b9cf8794445f0a8f43e2270657d24b9c17818fef
 Section: Themes
 Description: Replaces the “Hey Siri” sound effects with Mr. Meeseeks sounds.
 Author: Captain Poprocks
@@ -30,9 +30,9 @@ Version: 1.0
 Architecture: iphoneos-arm
 Filename: ./debs/com.captainpoprocks.dragonloading_1.0_iphoneos-arm.deb
 Size: 41424
-MD5sum: 1d4a7a45e8d89880a22796961a5a9d69
-SHA1: 5b938022182cd9cf38d774884620e30ac4594753
-SHA256: 648bea35806b1395d657c38a166a80f3032a7ffd03a16723701e803aa86c8bb9
+MD5sum: b772df28be4aa744b7eedcb9de9cd9c3
+SHA1: 1b35087b3bf3a8398146540b571f121b477852a0
+SHA256: 02ae4caab1f41ee7b89c86a8cd7120054aba468789426aead1a4e59e878db0b7
 Section: Themes
 Description: A cute dragon gif to replace the standard iOS loading wheel.
 Author: Captain Poprocks
@@ -46,9 +46,9 @@ Installed-Size: 248
 Depends: mobilesubstrate
 Filename: ./debs/com.captainpoprocks.nosquaremode_0.1.1-1+debug_iphoneos-arm.deb
 Size: 9810
-MD5sum: 0ad37e002c41bbc7c17778b69ed60dec
-SHA1: a5e07abc1eb55acef0383a9dd957b91f5651de3f
-SHA256: 05f8208ddca7d1f16727f47b37ddba7fd4b405852872b2c3efe036d70289d77a
+MD5sum: a750d03b16a46155b9a3660c9a462dba
+SHA1: d4c5a9e7b664181913e33f4fe6f84808d209d122
+SHA256: 9aa90f7ea61cdcd930b8cd4b2df9a5d23fa4934217594a92487bf48d0f752f68
 Section: Tweaks
 Description: Disables square mode in camera app.
 Author: Captain Poprocks
@@ -62,9 +62,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.captainpoprocks.noswitcherblur_0.0.1-2+debug_iphoneos-arm.deb
 Size: 4038
-MD5sum: 67e0da160daaf6803347eef5ea6722f8
-SHA1: 3153dfed8d7afe9570b4be4eae2ef1f9b839f8ed
-SHA256: f37cd23f6c338200dc7541de253b9b6bd55331d8c3ecb0cdbdd1938769e1b3d7
+MD5sum: 88a24ff1be28b20f9dd33742d27d8069
+SHA1: 248f9d83b5263f27bdb1073f0dc151dffd8bc7bc
+SHA256: 003f3796f01d5e8239052d35836a2033363e71afd413e658c159bd37147f714c
 Section: Tweaks
 Description: Disables wallpaper blur in the app switcher
 Author: Captain Poprocks
