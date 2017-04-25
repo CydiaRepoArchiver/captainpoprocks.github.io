@@ -12,4 +12,6 @@ dpkg-deb -bZgzip /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/p
 
 dpkg-deb -bZgzip /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/projects/NoSwitcherBlur debs
 
+dpkg-deb -bZgzip /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/projects/SnapchatTweaks debs
+
 # dpkg-deb -bZgzip /Users/JacksonRoth/Documents/github/captainpoprocks.github.io/projects/<projectname> debs
