@@ -16,3 +16,6 @@ if (enabled && (![newtext isEqualToString:@""] || newtext != nil)) {
 }
 }
 %end
+
+
+//This is broken, I wouldn’t install it if i were you
