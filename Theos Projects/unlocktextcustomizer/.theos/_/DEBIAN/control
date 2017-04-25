@@ -1,0 +1,10 @@
+Package: com.captainpoprocks.UnlockTextCustomizer
+Name: UnlockTextCustomizer
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Captain Poprocks
+Author: Captain Poprocks
+Section: Tweaks
+Version: 0.1.0-2+debug
+Installed-Size: 248

@@ -1,0 +1,10 @@
+Package: com.captainpoprocks.cameracustomizer
+Name: CameraCustomizer
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Customize almost all aspects of the camera app.
+Maintainer: Captain Poprocks
+Author: Captain Poprocks
+Section: Tweaks
+Version: 0.1.1-2+debug
+Installed-Size: 268

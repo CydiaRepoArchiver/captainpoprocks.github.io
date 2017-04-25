@@ -1,0 +1,10 @@
+Package: com.captainpoprocks.SnapchatTweaks
+Name: SnapchatTweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A collection of Snapchat tweaks!  Tested on Snapchat 10.7
+Maintainer: Captain Poprocks
+Author: Captain Poprocks
+Section: Tweaks
+Version: 0.1.0-1+debug
+Installed-Size: 248

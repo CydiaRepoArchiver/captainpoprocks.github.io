@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Square Mode</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>squaremodeenabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+</dict>
+
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Live Filters</string>
+</dict>
+
+<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<true/>
+				<key>defaults</key>
+				<string>com.captainpoprocks.cameracustomizer</string>
+				<key>key</key>
+				<string>livefiltersenabled</string>
+				<key>label</key>
+				<string>Enabled</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Portrait Mode</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>portraitmodefrontenabled</string>
+			<key>label</key>
+			<string>Rear Camera Enabled</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>portraitmodebackenabled</string>
+			<key>label</key>
+			<string>Front Camera Enabled</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Burst Mode</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>burstmodefrontenabled</string>
+			<key>label</key>
+			<string>Front Camera Enabled</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>burstmodebackenabled</string>
+			<key>label</key>
+			<string>Rear Camera Enabled</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Panorama Mode</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>panoramamodeenabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Timelapse</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>timelapsefrontenabled</string>
+			<key>label</key>
+			<string>Front Camera Enabled</string>
+</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>timelapsebackenabled</string>
+			<key>label</key>
+			<string>Rear Camera Enabled</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Slomo</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>slomoenabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>HDR On</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>hdrfrontenabled</string>
+			<key>label</key>
+			<string>Front Camera Enabled</string>
+		</dict>
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.captainpoprocks.cameracustomizer</string>
+			<key>key</key>
+			<string>hdrbackenabled</string>
+			<key>label</key>
+			<string>Back Camera Enabled</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>cameracustomizer</string>
+</dict>
+</plist>
